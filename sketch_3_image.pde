@@ -1,5 +1,4 @@
 import org.openkinect.processing.*;
-import processing.video.*;
 
 Kinect2 kinect2;
 PImage img;
